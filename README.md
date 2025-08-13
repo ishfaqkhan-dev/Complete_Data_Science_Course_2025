@@ -41,7 +41,7 @@ The course covers everything from the basics of Python for data science to worki
 - **ydata-profiling**
 
 ## Prerequisites
-- Basic knowledge of Python (not mandatory, covered in course)
+- Basic knowledge of Python (Mandatory)
 - An installed Python environment (Miniconda recommended)
 - VS Code or any preferred IDE
 
